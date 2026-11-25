@@ -2,7 +2,7 @@
 
 **Website: [kuraib.site](https://kuraib.site)**
 
-I help property and service businesses in the UAE get better leads and answer them faster.
+I help property and service businesses to get better leads and answer them faster.
 
 - **Ads and tracking:** Meta Ads, Google Ads, GA4, Tag Manager, conversion tracking
 - **Websites and AI:** WordPress, Next.js, AI assistants, WhatsApp automation
